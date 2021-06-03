@@ -1,6 +1,7 @@
 name: RedSkyBlock
 author: RedCraftPE
-version: 1.0.0.0
+editor: Kavin # I added GUIß
+version: 1.0.0.1 # ONLY ALPHA NOT SURE IT WILL WORK
 api: 3.0.0
 mcpe-protocol: 431
 main: RedCraftPE\RedSkyBlock\SkyBlock
